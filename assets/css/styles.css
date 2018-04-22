@@ -295,5 +295,11 @@ p {
 .navigation-bar a{
   color: rgb(255, 255, 255) !important;
 }
+
+.passed{
+  border:0;
+  width:88px;
+  height:31px;
+}
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */

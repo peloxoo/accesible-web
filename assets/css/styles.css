@@ -291,5 +291,9 @@ p {
     top: 1px;
   }
 }
+
+.navigation-bar a{
+  color: rgb(255, 255, 255) !important;
+}
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
